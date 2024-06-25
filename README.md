@@ -15,3 +15,10 @@
 
 </br>
 <h4 align="center">My Portfolio:</h4>
+
+## [project name](link)
+Project descr
+<br>
+Technologies used:
+<br>
+
