@@ -16,10 +16,14 @@
 </br>
 <h4 align="center">My Portfolio:</h4>
 
-## [project name](link)
+## [Museum for change]([link](https://radzivil-work.github.io/museum/build/))
 Project descr
 <br>
 Technologies used:
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript)
+![HTML](https://img.shields.io/badge/-HTML-333?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-333?style=for-the-badge&logo=css3&logoColor=blue)
 <br>
 
 <h4 align="center">Codewars Statistic:</h4>
