@@ -23,4 +23,5 @@ Technologies used:
 <br>
 
 <h4 align="center">Codewars Statistic:</h4>
+
 ![codewars](https://www.codewars.com/users/Radzivil-V/badges/large)
